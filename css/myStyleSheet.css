@@ -16,8 +16,18 @@
     justify-content: center;
     display: flex;
 }
+.textMiddle{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
 
 .text {
     text-align: left;
     font-size: 0.75em;
+}
+
+.showVideo {
+    display: block;
 }
