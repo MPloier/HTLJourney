@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+}
+
+.imgContainer {
+    width: 50%;
+}
+
+.imgContainer {
+    width: 50%;
+}
+
+.textContainer {
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.textMiddle{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+.text {
+    text-align: left;
+    font-size: 0.75em;
+}
+
+.showVideo {
+    display: block;
+}
